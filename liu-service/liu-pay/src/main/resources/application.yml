@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: liu-pay-discovery-server
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 47.99.38.187:8848
+server:
+  port: 9001
+
+

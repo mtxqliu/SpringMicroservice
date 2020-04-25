@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringMicroservice.iml" filepath="$PROJECT_DIR$/.idea/SpringMicroservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liu-service/liu-account/liu-account.iml" filepath="$PROJECT_DIR$/liu-service/liu-account/liu-account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liu-service-api/liu-account-api/liu-account-api.iml" filepath="$PROJECT_DIR$/liu-service-api/liu-account-api/liu-account-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liu-common/liu-common.iml" filepath="$PROJECT_DIR$/liu-common/liu-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liu-demo/liu-demo.iml" filepath="$PROJECT_DIR$/liu-demo/liu-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liu-gateway/liu-gateway.iml" filepath="$PROJECT_DIR$/liu-gateway/liu-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liu-service/liu-member/liu-member.iml" filepath="$PROJECT_DIR$/liu-service/liu-member/liu-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liu-service-api/liu-member-api/liu-member-api.iml" filepath="$PROJECT_DIR$/liu-service-api/liu-member-api/liu-member-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liu-ops/liu-ops.iml" filepath="$PROJECT_DIR$/liu-ops/liu-ops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liu-service/liu-order/liu-order.iml" filepath="$PROJECT_DIR$/liu-service/liu-order/liu-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liu-service-api/liu-order-api/liu-order-api.iml" filepath="$PROJECT_DIR$/liu-service-api/liu-order-api/liu-order-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liu-service/liu-pay/liu-pay.iml" filepath="$PROJECT_DIR$/liu-service/liu-pay/liu-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liu-service-api/liu-pay-api/liu-pay-api.iml" filepath="$PROJECT_DIR$/liu-service-api/liu-pay-api/liu-pay-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liu-service/liu-service.iml" filepath="$PROJECT_DIR$/liu-service/liu-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liu-service-api/liu-service-api.iml" filepath="$PROJECT_DIR$/liu-service-api/liu-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liu-service/liu-settle/liu-settle.iml" filepath="$PROJECT_DIR$/liu-service/liu-settle/liu-settle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liu-service-api/liu-settle-api/liu-settle-api.iml" filepath="$PROJECT_DIR$/liu-service-api/liu-settle-api/liu-settle-api.iml" />
+    </modules>
+  </component>
+</project>

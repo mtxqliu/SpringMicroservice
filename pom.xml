@@ -23,4 +23,14 @@
         <module>liu-demo</module>
     </modules>
 
+    <properties>
+        <cloud.project.version>2.1.0.RELEASE</cloud.project.version>
+    </properties>
+    <dependencies>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.12</version>
+        </dependency>
+    </dependencies>
 </project>
