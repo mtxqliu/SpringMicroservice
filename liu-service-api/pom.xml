@@ -6,7 +6,15 @@
 
     <groupId>org.liu</groupId>
     <artifactId>liu-service-api</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>liu-pay-api</module>
+        <module>liu-order-api</module>
+        <module>liu-account-api</module>
+        <module>liu-member-api</module>
+        <module>liu-settle-api</module>
+    </modules>
 
 
 </project>

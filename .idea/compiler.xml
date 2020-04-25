@@ -6,18 +6,41 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="liu-account" />
+        <module name="liu-account-api" />
         <module name="liu-common" />
+        <module name="liu-demo" />
         <module name="liu-gateway" />
+        <module name="liu-member" />
+        <module name="liu-member-api" />
+        <module name="liu-ops" />
+        <module name="liu-order" />
+        <module name="liu-order-api" />
+        <module name="liu-pay" />
+        <module name="liu-pay-api" />
         <module name="liu-service" />
-        <module name="liu-service-api" />
+        <module name="liu-settle" />
+        <module name="liu-settle-api" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="liu-common" target="1.5" />
+      <module name="liu-account" target="1.8" />
+      <module name="liu-account-api" target="1.5" />
+      <module name="liu-common" target="1.8" />
+      <module name="liu-demo" target="1.8" />
       <module name="liu-gateway" target="1.8" />
-      <module name="liu-service" target="1.5" />
+      <module name="liu-member" target="1.8" />
+      <module name="liu-member-api" target="1.5" />
+      <module name="liu-ops" target="1.8" />
+      <module name="liu-order" target="1.8" />
+      <module name="liu-order-api" target="1.5" />
+      <module name="liu-pay" target="1.8" />
+      <module name="liu-pay-api" target="1.5" />
+      <module name="liu-service" target="1.8" />
       <module name="liu-service-api" target="1.5" />
-      <module name="SpringMicroservice" target="1.5" />
+      <module name="liu-settle" target="1.8" />
+      <module name="liu-settle-api" target="1.5" />
+      <module name="SpringMicroservice" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -3,19 +3,13 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <artifactId>liu</artifactId>
+        <artifactId>liu-service-api</artifactId>
         <groupId>org.liu</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>liu-service</artifactId>
+    <artifactId>liu-member-api</artifactId>
 
-    <modules>
-        <module>liu-settle</module>
-        <module>liu-pay</module>
-        <module>liu-order</module>
-        <module>liu-account</module>
-        <module>liu-member</module>
-    </modules>
+
 </project>
