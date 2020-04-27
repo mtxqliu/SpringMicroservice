@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>liu-service</artifactId>
-
+    <packaging>pom</packaging>
     <modules>
         <module>liu-settle</module>
         <module>liu-pay</module>

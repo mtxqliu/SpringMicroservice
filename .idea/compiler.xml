@@ -19,7 +19,6 @@
         <module name="liu-order-api" />
         <module name="liu-pay" />
         <module name="liu-pay-api" />
-        <module name="liu-service" />
         <module name="liu-settle" />
         <module name="liu-settle-api" />
       </profile>
